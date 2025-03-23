@@ -1,4 +1,8 @@
 # trim
+
+[![Go Reference](https://pkg.go.dev/badge/github.com/goaux/trim.svg)](https://pkg.go.dev/github.com/goaux/trim)
+[![Go Report Card](https://goreportcard.com/badge/github.com/goaux/trim)](https://goreportcard.com/report/github.com/goaux/trim)
+
 The `trim` package provides functions to handle indentation and whitespace in multiline strings.
 
 This package is inspired by similar utility functions in the Kotlin standard library.
